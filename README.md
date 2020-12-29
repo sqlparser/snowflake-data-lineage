@@ -3,6 +3,8 @@ snowflake data lineage discovery using the SQLFlow
 
 ![snowflake-data-lineage](snowflake-data-lineage.png)
 
+[Try SQLFlow Live][https://sqlflow.gudusoft.com/?utm_source=github&utm_medium=text&utm_campaign=snowflake_data_lineage]
+
 ## Snowflake data lineage captured from the script used in bulk Loading from Amazon S3 Using COPY
 
 ### Script for Creating Required  Objects
