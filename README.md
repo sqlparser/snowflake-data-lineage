@@ -1,6 +1,8 @@
 # snowflake-data-lineage
 snowflake data lineage discovery using the SQLFlow
 
+![snowflake-data-lineage](snowflake-data-lineage.png)
+
 ## Snowflake data lineage captured from the script used in bulk Loading from Amazon S3 Using COPY
 
 ### Script for Creating Required  Objects
